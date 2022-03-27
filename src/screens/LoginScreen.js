@@ -63,7 +63,7 @@ const Login = ({ history }) => {
             </div>
           </form>
           <div>Use this to login:
-            <div style={{color: "red"}}>Admin@example.com</div>
+            <div style={{color: "red"}}>admin@example.com</div>
             <div style={{color: "red"}}>123456</div>
           </div>
         </div>
